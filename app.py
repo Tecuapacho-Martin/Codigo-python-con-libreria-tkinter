@@ -1,5 +1,6 @@
 import tkinter as tk
 def saludar():
+ #holalala prueba shdhajdgw
  nombre = entrada.get()
  etiqueta_resultado.config(text=f"Hola {nombre}")
 def edad():
